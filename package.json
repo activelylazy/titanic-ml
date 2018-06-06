@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "csv-parse": "^2.4.0",
     "flot-for-node": "^0.8.3-d",
     "jquery": "^3.3.1",
     "mathjs": "^4.2.2",
+    "node-fetch": "^2.1.2",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
     "react-scripts": "1.1.4"
